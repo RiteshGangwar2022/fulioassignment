@@ -1,0 +1,29 @@
+                                                             Assignment 4
+  
+
+1. Technology Name:Python, php
+- Regex Pattern: ['\bPHP\b']
+- Sample Website: [https://github.com/]
+
+
+2. Technology Name:jQuery WooCommerce Shopify PHP
+- Regex Pattern: ['WooCommerce']
+- Sample Website: [https://mycodelesswebsite.com/]
+
+
+3. Technology Name: Reactjs Nextjs
+- Regex Pattern: [\bReact\.js\b , \bNext\.js\b]
+- Sample Website: [https://pagepro.co/]
+
+4. Technology Name: Bootstrap, php
+- Regex Pattern: [\bBootstrap\b ,  \bPHP\b]
+- Sample Website: [https://en.wikipedia.org/]
+
+5. Technology Name: Reactjs Jquery php Bootstrap
+- Regex Pattern: [ 'jQuery',  \bReact\.js\b, \bBootstrap\b]
+- Sample Website: [https://www.w3schools.com/]
+
+6. Technology Name: jQuery Bootstrap Materialize CSS PHP Python
+- Regex Pattern: [ 'jQuery',  \bReact\.js\b, \bBootstrap\b '\bMaterialize\sCSS\b']
+- Sample Website: [https://www.geeksforgeeks.org/]
+
