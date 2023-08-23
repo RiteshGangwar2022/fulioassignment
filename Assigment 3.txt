@@ -1,0 +1,9 @@
+                                                             Assigment 3
+
+1)=> reverse-i-search allows us to search for previously entered command in terminal.
+
+2)=> we can use ls-a to get all hidden directories start with dot. but to get Every file we can use regx with ls-a => ls -ap | grep "^..*/$" 
+
+3)=> I am compfortable with Ubantu beacause I have used it in my practical of Operting system (linux)  in fourth semester.
+
+4)=>I have deployed multiple MERN stack projects on render and some Reactjs project on netlify. 
